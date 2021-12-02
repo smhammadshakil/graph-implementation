@@ -1,0 +1,10 @@
+#container {
+    width: 60%;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.wrap {
+    padding: 2rem;
+}
